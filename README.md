@@ -1,9 +1,14 @@
 # DevOps Stage 0 - HNG13
 
-**Name:** Justice Obioha  
-**Slack Username:** @JIC  
-**Project Description:**  
-This project sets up an NGINX web server to serve a custom HTML page on port 80.  
-Deployed Azure for HNG Stage 0 assessment.
+- **Name:** Justice Obioha
+- **Slack Username:** @JIC  
 
-**Server IP / Domain:** (Add this after deployment)
+- **Project Description**
+This project is part of the **HNG13 Stage 0 DevOps track**.  
+It involves deploying an **NGINX web server** on a cloud instance and customizing the homepage.
+
+- **Deployment Details**
+**Server IP:** http://172.191.198.160  
+**Platform:** Microsoft Azure  
+**Deployed:** October 18, 2025
+
