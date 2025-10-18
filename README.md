@@ -5,7 +5,7 @@
 
 - **Project Description**
 This project is part of the **HNG13 Stage 0 DevOps track**.  
-It involves deploying an **NGINX web server** on a cloud instance and customizing the homepage.
+It involves deploying an **NGINX web server** on a **Microsoft Azure** and customizing the homepage.
 
 - **Deployment Details**
 **Server IP:** http://172.191.198.160  
